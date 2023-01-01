@@ -1,4 +1,4 @@
-=== Autocomplete WooCommerce Order Status ===
+=== Autocomplete Woo Order Status ===
 Contributors: noruzzaman
 Tags: comments, spam
 Requires at least: 5.0
