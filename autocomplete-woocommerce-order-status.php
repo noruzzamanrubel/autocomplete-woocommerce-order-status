@@ -14,11 +14,11 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Autocomplete Order Status for WooCommerce
- * Plugin URI:        https://https://www.linkedin.com/in/noruzzamanrubel
+ * Plugin URI:        https://github.com/noruzzamanrubel/Autocomplete-Order-Status-for-WooCommerce
  * Description:       Autocomplete WooCommerce Order Status indicates that the order has been completed, and the customer has received their products.
  * Version:           1.0.0
  * Author:            MD Noruzzaman
- * Author URI:        https://#
+ * Author URI:        https://github.com/noruzzamanrubel
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       autocomplete-woocommerce-order-status
