@@ -30,6 +30,30 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
+require __DIR__ . '/vendor/autoload.php';
+
+
+/**
+ * Initialize the plugin tracker
+ *
+ * @return void
+ */
+function appsero_init_tracker_autocomplete_wc_order_status() {
+
+    if ( ! class_exists( 'Appsero\Client' ) ) {
+      require_once __DIR__ . '/appsero/src/Client.php';
+    }
+
+    $client = new Appsero\Client( '92497aed-a620-4d66-a0e2-678a0695cc89', 'Autocomplete Order Status for WooCommerce', __FILE__ );
+
+    // Active insights
+    $client->insights()->init();
+
+}
+
+appsero_init_tracker_autocomplete_wc_order_status();
+
+
 /**
  * Currently plugin version.
  * Start at version 1.0.0 and use SemVer - https://semver.org
