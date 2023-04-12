@@ -2,7 +2,7 @@
 Contributors: noruzzaman
 Tags: autocomplete, complete, order, Status, woocommerce
 Requires at least: 5.0
-Tested up to: 6.1.1
+Tested up to: 6.2
 Stable tag: 1.0.0
 Requires PHP: 7.0
 License: GPLv2 or later
