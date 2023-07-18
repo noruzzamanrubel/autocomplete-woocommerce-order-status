@@ -3,7 +3,7 @@ Contributors: noruzzaman
 Tags: autocomplete, complete, order, Status, woocommerce
 Requires at least: 5.0
 Tested up to: 6.2
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -68,3 +68,7 @@ To install and configure Autocomplete Order Status, follow these steps:
  = Does the plugin come for free? =
  Yes, it's completely free.
 
+== Changelog ==
+
+= 1.1.0 =
+New: support for WooCommerce 7.9

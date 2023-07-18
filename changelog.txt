@@ -1,0 +1,2 @@
+= 1.1.0 =
+New: support for WooCommerce 7.9
