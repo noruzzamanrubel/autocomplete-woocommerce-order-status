@@ -2,8 +2,8 @@
 Contributors: noruzzaman
 Tags: autocomplete, complete, order, Status, woocommerce
 Requires at least: 5.0
-Tested up to: 6.2
-Stable tag: 1.1.0
+Tested up to: 6.3
+Stable tag: 1.2.0
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -36,6 +36,13 @@ Stay on top of your orders and keep your customers informed throughout the proce
 
 Automating your order fulfillment process has never been easier. With the **Autocomplete Order Status for WooCommerce** plugin, you can streamline your operations, save time, and enhance customer satisfaction. Seamlessly integrating with WooCommerce, this powerful plugin automates order completions, providing a hassle-free experience for you and your customers. Customize the plugin to align with your unique workflow, and enjoy real-time order tracking and notifications. Take your WooCommerce store to the next level with Autocomplete Order Status and unlock new levels of efficiency and customer satisfaction.
 
+### 🚀 Check out our Other Plugins 🚀
+
+Here are some of our amazing plugins that you can use to boost your WordPress website:
+
+[Quick Checkout, Direct Checkout Button for WooCommerce](https://wordpress.org/plugins/quick-checkout-for-woocommerce/): Quick Checkout for WooCommerce is a powerful and efficient plugin designed to streamline the checkout process for online stores built on the WooCommerce platform.
+
+[Copy to Clipboard for WordPress](https://wordpress.org/plugins/copy-to-clipboard-for-wp/): Copy to Clipboard for WordPress is a powerful and user-friendly plugin designed to enhance the copy-and-paste functionality on your WordPress website.
 
 == Installation ==
 
@@ -69,6 +76,10 @@ To install and configure Autocomplete Order Status, follow these steps:
  Yes, it's completely free.
 
 == Changelog ==
+
+= 1.2.0 =
+*New: support for WooCommerce 8.0.1
+*New: support for WordPress 6.3
 
 = 1.1.0 =
 New: support for WooCommerce 7.9
