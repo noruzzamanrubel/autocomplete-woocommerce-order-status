@@ -1,3 +1,6 @@
+= 1.4.1 =
+update: support for WooCommerce 8.4.0
+
 = 1.4.0 =
 New: support for WooCommerce 8.2.2
 New: support for WordPress 6.4
