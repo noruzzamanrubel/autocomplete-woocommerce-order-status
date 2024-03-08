@@ -16,7 +16,7 @@
  * Plugin Name:       Autocomplete Order Status for WooCommerce
  * Plugin URI:        https://github.com/noruzzamanrubel/Autocomplete-Order-Status-for-WooCommerce
  * Description:       Autocomplete Order Status for WooCommerce is a plugin that allows you to automatically complete orders in WooCommerce and the customer has received their products. This can save you time and effort, and it can also help to improve your customer experience.
- * Version:           1.4.2
+ * Version:           1.4.3
  * Author:            Noruzzaman
  * Author URI:        https://github.com/noruzzamanrubel
  * License:           GPL-2.0+
@@ -30,36 +30,13 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-require __DIR__ . '/vendor/autoload.php';
-
-
-/**
- * Initialize the plugin tracker
- *
- * @return void
- */
-function appsero_init_tracker_autocomplete_wc_order_status() {
-
-    if ( ! class_exists( 'Appsero\Client' ) ) {
-      require_once __DIR__ . '/appsero/src/Client.php';
-    }
-
-    $client = new Appsero\Client( '92497aed-a620-4d66-a0e2-678a0695cc89', 'Autocomplete Order Status for WooCommerce', __FILE__ );
-
-    // Active insights
-    $client->insights()->init();
-
-}
-
-appsero_init_tracker_autocomplete_wc_order_status();
-
 
 /**
  * Currently plugin version.
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'AUTOCOMPLETE_WOOCOMMERCE_ORDER_STATUS_VERSION', '1.4.2' );
+define( 'AUTOCOMPLETE_WOOCOMMERCE_ORDER_STATUS_VERSION', '1.4.3' );
 
 /**
  * The code that runs during plugin activation.

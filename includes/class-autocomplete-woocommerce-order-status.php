@@ -70,7 +70,7 @@ class Autocomplete_Woocommerce_Order_Status {
 		if ( defined( 'AUTOCOMPLETE_WOOCOMMERCE_ORDER_STATUS_VERSION' ) ) {
 			$this->version = AUTOCOMPLETE_WOOCOMMERCE_ORDER_STATUS_VERSION;
 		} else {
-			$this->version = '1.4.2';
+			$this->version = '1.4.3';
 		}
 		$this->plugin_name = 'autocomplete-woocommerce-order-status';
 
