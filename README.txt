@@ -12,7 +12,7 @@ Autocomplete WooCommerce Order Status indicates that the order has been complete
 
 == Description ==
 
-[youtube https://www.youtube.com/watch?v=zg0c03cpE8I&t]
+[youtube https://www.youtube.com/watch?v=nLv9X0kpH4A]
 
 Streamline and automate order processing in your WooCommerce store with the **Autocomplete Order Status for WooCommerce** plugin. Enhance customer satisfaction, save time, and boost efficiency by seamlessly completing orders with this powerful WordPress plugin.
 
