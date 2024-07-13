@@ -18,7 +18,7 @@
  * Description:       Autocomplete Order Status for WooCommerce is a plugin that allows you to automatically complete orders in WooCommerce and the customer has received their products. This can save you time and effort, and it can also help to improve your customer experience.
  * Version:           1.4.5
  * Author:            Noruzzaman
- * Author URI:        https://github.com/noruzzamanrubel
+ * Author URI:        https://github.com/noruzzamans
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       autocomplete-woocommerce-order-status
