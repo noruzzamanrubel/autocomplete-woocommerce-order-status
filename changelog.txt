@@ -1,3 +1,7 @@
+= 1.4.7 =
+WooCommerce 9.3.3 Support: Added compatibility with the latest WooCommerce features.
+WordPress 6.6.2 Compatibility: Improved stability and smooth operation with the latest WordPress version.
+
 = 1.4.6 =
 Update: Added support for WooCommerce 9.1.4, ensuring compatibility with the latest features and enhancements in the e-commerce platform.
 Update: Improved compatibility with WordPress 6.6.1, guaranteeing smooth operation and stability within the WordPress ecosystem.
